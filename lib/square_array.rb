@@ -1,3 +1,6 @@
 def square_array(array)
-  # your code here
+  arr = []
+100.times do |num|
+arr.push (num*num)#
 end
+puts arr
